@@ -58,3 +58,6 @@ Command	       Function
 /offline	     Turn off live Wikipedia search       .
 /online	       Enable live information mode         .
 .....................................................
+
+# Demo Video
+link-> https://drive.google.com/file/d/1V7JJ3r7deX4r-9ApZ1bcAo1oTWsp02Cd/view?usp=drivesdk
